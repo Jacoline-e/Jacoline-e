@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jacoline-e
-- 👀 I’m interested in modeling and enetprize architecture
+- 👀 I’m interested in modeling and enterprise architecture
 - 🌱 I’m currently learning how to create professional Modeling packages :)
 - 💞️ I’m looking to collaborate on any projects regarding modeling
 - 📫 How to reach me email me jacolinedubuisson@gmail.com !!!!
