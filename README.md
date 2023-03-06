@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jacoline-e
-- 👀 I’m interested in all programming languages !!!
-- 🌱 I’m currently learning python and java !
-- 💞️ I’m looking to collaborate on any projects regarding java and/or python !
+- 👀 I’m interested in modeling and enetprize architecture
+- 🌱 I’m currently learning how to create professional Modeling packages :)
+- 💞️ I’m looking to collaborate on any projects regarding modeling
 - 📫 How to reach me email me jacolinedubuisson@gmail.com !!!!
 
 <!---
